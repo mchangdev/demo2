@@ -1,1 +1,1 @@
-var demo2 = 'version1'
+var demo2 = 'version2'

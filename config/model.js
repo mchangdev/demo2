@@ -1,1 +1,1 @@
-var model = 'version1'
+var model = 'version2'
